@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/abidmemon1870ca/LeetCode_SQL/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1278-product-price-at-a-given-date](https://github.com/abidmemon1870ca/LeetCode_SQL/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/abidmemon1870ca/LeetCode_SQL/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [1480-movie-rating](https://github.com/abidmemon1870ca/LeetCode_SQL/tree/master/1480-movie-rating) |
 | [1877-find-followers-count](https://github.com/abidmemon1870ca/LeetCode_SQL/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/abidmemon1870ca/LeetCode_SQL/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/abidmemon1870ca/LeetCode_SQL/tree/master/1942-primary-department-for-each-employee) |
